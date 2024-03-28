@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+A simple Todo List made to practice programming in React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
